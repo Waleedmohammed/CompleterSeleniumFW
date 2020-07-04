@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99929343-4c63-4564-ba22-d5ad73cfd6d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/.m2/personal" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings2.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eDmZGVxgxDkgH0ya9zPOg64zK0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/waleed.elbarbary/Downloads/seleniumFramework-master/testngParallelTesting.xml">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="taf [clean,install,-DskipTests]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/waleed.elbarbary/Downloads/seleniumFramework-master/testngParallelTesting.xml" type="TestNG" nameIsGenerated="true">
+      <module name="taf" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngParallelTesting.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.taf [clean,install,-DskipTests]" />
+      <item itemvalue="TestNG./Users/waleed.elbarbary/Downloads/seleniumFramework-master/testngParallelTesting.xml" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99929343-4c63-4564-ba22-d5ad73cfd6d5" name="Default Changelist" comment="" />
+      <created>1593864591927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593864591927</updated>
+      <workItem from="1593864595754" duration="2298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="188" key="#/Users/waleed.elbarbary/Downloads/seleniumFramework-master/testngParallelTesting.xml" timestamp="1593867011078">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state x="563" y="188" key="#/Users/waleed.elbarbary/Downloads/seleniumFramework-master/testngParallelTesting.xml/0.23.1792.1046@0.23.1792.1046" timestamp="1593867011078" />
+    <state x="496" y="205" key="#Inspections" timestamp="1593865042469">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="496" y="205" key="#Inspections/0.23.1792.1045@0.23.1792.1045" timestamp="1593865042469" />
+    <state x="360" y="201" width="1071" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593864838651">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="360" y="201" width="1071" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1593864838651" />
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom" timestamp="1593867086055">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1593864974196" />
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1046@0.23.1792.1046" timestamp="1593867086055" />
+    <state width="1750" height="281" key="GridCell.Tab.0.center" timestamp="1593867086054">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1593864974195" />
+    <state width="1750" height="281" key="GridCell.Tab.0.center/0.23.1792.1046@0.23.1792.1046" timestamp="1593867086054" />
+    <state width="1750" height="281" key="GridCell.Tab.0.left" timestamp="1593867086053">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1593864974194" />
+    <state width="1750" height="281" key="GridCell.Tab.0.left/0.23.1792.1046@0.23.1792.1046" timestamp="1593867086053" />
+    <state width="1750" height="281" key="GridCell.Tab.0.right" timestamp="1593867086054">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1593864974196" />
+    <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1046@0.23.1792.1046" timestamp="1593867086054" />
+    <state x="397" y="177" width="1165" height="834" key="SettingsEditor" timestamp="1593866990576">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state x="397" y="177" key="SettingsEditor/0.23.1792.1045@0.23.1792.1045" timestamp="1593865122389" />
+    <state x="397" y="177" width="1165" height="834" key="SettingsEditor/0.23.1792.1046@0.23.1792.1046" timestamp="1593866990576" />
+    <state x="551" y="302" width="689" height="472" key="find.popup" timestamp="1593865793053">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state x="551" y="302" width="689" height="472" key="find.popup/0.23.1792.1046@0.23.1792.1046" timestamp="1593865793053" />
+    <state x="561" y="249" width="670" height="676" key="run.anything.popup" timestamp="1593866101579">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state x="561" y="249" width="670" height="675" key="run.anything.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1593864974229" />
+    <state x="561" y="249" width="670" height="676" key="run.anything.popup/0.23.1792.1046@0.23.1792.1046" timestamp="1593866101579" />
+  </component>
+</project>
